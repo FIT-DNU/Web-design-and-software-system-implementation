@@ -18,4 +18,22 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+## 📖 1. Giới thiệu
+Thiết kế web là quá trình lên kế hoạch, xây dựng và sắp xếp nội dung trên một trang web để đảm bảo nó hiển thị đẹp mắt, dễ sử dụng và hoạt động hiệu quả trên các thiết bị như máy tính, điện thoại, máy tính bảng.
+Sinh viên nắm được các khái niệm cốt lõi: Web tĩnh, Web động, hosting, domain, URL...
+Biết được vai trò của HTML trong việc xây dựng website.
+Cài đặt và làm quen với công cụ thực hành (Visual Studio Code).
 
+## 🔧 2. Các công nghệ được sử dụng
+<div align="center">
+
+### Hệ điều hành
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+### Công nghệ chính
+[![HTML](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+### IDE sử dụng
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+</div>
