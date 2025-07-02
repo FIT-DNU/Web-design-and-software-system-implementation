@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biểu mẫu liên hệ</title>
+</head>
+<body>
+     <h1>Form Liên Hệ</h1>
+        <form action="#" method="get">
+            <div>
+                <label for="ho-ten">Họ và tên:</label><br>
+                <input type="text" id="ho-ten" name="ho_ten" required>
+            </div>
+            <br>
+            <div>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email_lien_he" required>
+            </div>
+            <br>
+            <div>
+                <p>Giới tính:</p>
+                <input type="radio" id="nam" name="gioi_tinh" value="nam">
+                <label for="nam">Nam</label><br>
+                <input type="radio" id="nu" name="gioi_tinh" value="nu">
+                <label for="nu">Nữ</label>
+            </div>
+            <br>
+            <div>
+                <p>Sản phẩm quan tâm:</p>
+                <input type="checkbox" id="san-pham-a" name="sp" value="A">
+                <label for="san-pham-a">Sản phẩm A</label><br>
+                <input type="checkbox" id="san-pham-b" name="sp" value="B">
+                <label for="san-pham-b">Sản phẩm B</label>
+            </div>
+            <br>
+            <div>
+                <label for="noi-dung">Nội dung góp ý:</label><br>
+                <textarea id="noi-dung" name="noi_dung_gop_y" rows="5" cols="40"></textarea>
+            </div>
+            <br>
+            <div>
+                <button type="submit">Gửi đi</button>
+                <button type="reset">Xóa hết</button>
+            </div>
+        </form>
+</body>
+</html>
