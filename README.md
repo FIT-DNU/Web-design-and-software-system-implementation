@@ -20,8 +20,11 @@
 </div>
 ## 📖 1. Giới thiệu
 Thiết kế web là quá trình lên kế hoạch, xây dựng và sắp xếp nội dung trên một trang web để đảm bảo nó hiển thị đẹp mắt, dễ sử dụng và hoạt động hiệu quả trên các thiết bị như máy tính, điện thoại, máy tính bảng.
+<br>
 Sinh viên nắm được các khái niệm cốt lõi: Web tĩnh, Web động, hosting, domain, URL...
+<br>
 Biết được vai trò của HTML trong việc xây dựng website.
+<br>
 Cài đặt và làm quen với công cụ thực hành (Visual Studio Code).
 
 ## 🔧 2. Các công nghệ được sử dụng
