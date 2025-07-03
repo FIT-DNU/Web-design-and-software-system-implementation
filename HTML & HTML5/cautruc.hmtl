@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cấu trúc trang Web</title>
+</head>
+<body>
+    <header>
+        <h1>Website của tôi</h1>
+    </header>
+    
+    <nav>
+        <a href="/trang-chu">Trang chủ</a>
+        <a href="/lien-he">Liên hệ</a>
+    </nav>
+    
+    <main>
+        <article>
+            <h2>Đây là tiêu đề bài viết</h2>
+            <p>Nội dung chi tiết của bài viết...</p>
+        </article>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Bản quyền thuộc về tôi.</p>
+    </footer>
+</body>
+</html>
